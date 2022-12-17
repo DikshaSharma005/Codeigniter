@@ -1,0 +1,51 @@
+body{
+    background-color:blanchedalmond;
+  }
+  .img-circle{
+    margin-top: 60px;
+    margin-right:60px;
+    width:330px;
+     height:380px;
+  }
+  .img-rounded{
+    margin-top:70px;
+    margin-left:100px;
+    width:230px;
+    height:180px;
+  }
+  .image{
+    margin-top:300px;
+    margin-left:20px;
+    width:250px;
+    height:180px;
+  }
+ .container{
+    background-color:whitesmoke;
+     text-align:left;
+     width: 30%;
+     margin-top: 5%;
+     border-radius: 1rem;
+     margin-bottom: 5%;
+     height: 80%;
+     border: 1px solid blueviolet
+   }
+
+  button{
+    background-color:lightblue;
+   font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+   border-color: white;
+   color:darkblue;
+   border-radius: 1rem;
+  }
+
+  .navbar{
+    height: 60px;
+   padding-left: 0.5%;;
+   
+  }
+  
+  h1{
+    color:whitesmoke;
+    font-size: 34px;
+    font-family: 'Times New Roman', Times, serif;
+  }

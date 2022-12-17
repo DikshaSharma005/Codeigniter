@@ -1,0 +1,22 @@
+
+.container{
+    background-color:cornsilk;
+    justify-content: center;
+         text-align:center;
+         width: 35%;
+         margin-top: 5%;
+         border-radius: 1rem;
+         margin-bottom: 5%;
+         height: 70%;
+       }
+.feedback{
+    width: 30%;
+    background-color:darksalmon;
+    text-decoration: none;
+    color: #fff;
+}
+
+img.rounded-pill {
+    width: 15%;
+    border-radius: 15%;
+  }
